@@ -1,64 +1,8 @@
 {
   "users": [
     {
-      "name": "Sadie Harvey Jr.",
-      "id": 7
-    },
-    {
-      "name": "Keith Bergnaum",
-      "id": 20
-    },
-    {
-      "name": "Marguerite Gutmann",
-      "id": 23
-    },
-    {
-      "name": "Aaron Schulist Jr.",
-      "id": 25
-    },
-    {
-      "name": "Larry Franecki",
-      "id": 26
-    },
-    {
-      "name": "Bob Abernathy",
-      "id": 27
-    },
-    {
-      "name": "Ashley Vandervort II",
-      "id": 28
-    },
-    {
-      "name": "Luke Harber",
-      "id": 29
-    },
-    {
-      "name": "Ted Ankunding",
-      "id": 30
-    },
-    {
-      "name": "Elena Nikolaus",
-      "id": 31
-    },
-    {
-      "name": "Gladys Collins",
-      "id": 32
-    },
-    {
-      "name": "Kay Stanton",
-      "id": 33
-    },
-    {
-      "name": "Shane Mohr",
-      "id": 34
-    },
-    {
       "name": "Ian Bartell I",
       "id": 35
-    },
-    {
-      "name": "Carroll Batz",
-      "id": 36
     },
     {
       "name": "Tony Kuhn",
@@ -71,10 +15,6 @@
     {
       "name": "Kay Hane",
       "id": 39
-    },
-    {
-      "name": "Mr. Jeff Becker",
-      "id": 40
     },
     {
       "name": "Melanie Schamberger",
@@ -125,10 +65,6 @@
       "id": 52
     },
     {
-      "name": "Aubrey Senger",
-      "id": 53
-    },
-    {
       "name": "Latoya Mraz",
       "id": 54
     },
@@ -161,10 +97,6 @@
       "id": 62
     },
     {
-      "name": "Sarah Walter MD",
-      "id": 63
-    },
-    {
       "name": "Neil Jerde",
       "id": 64
     },
@@ -175,8 +107,101 @@
     {
       "name": "Dr. Cindy Bradtke",
       "id": 66
+    },
+    {
+      "name": "Guillermo Corkery",
+      "id": 67
+    },
+    {
+      "name": "Evan Emard",
+      "id": 68
+    },
+    {
+      "name": "Lila Wisozk",
+      "id": 69
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 38,
+      "title": "Fantastic Concrete Chicken",
+      "id": 33
+    },
+    {
+      "userId": 38,
+      "title": "Recycled Granite Keyboard",
+      "id": 35
+    },
+    {
+      "userId": 38,
+      "title": "Awesome Granite Pants",
+      "id": 36
+    },
+    {
+      "userId": 35,
+      "title": "Tasty Granite Computer",
+      "id": 46
+    },
+    {
+      "userId": 44,
+      "title": "Sleek Wooden Ball",
+      "id": 47
+    },
+    {
+      "userId": 44,
+      "title": "Intelligent Cotton Tuna",
+      "id": 48
+    },
+    {
+      "userId": 35,
+      "title": "Refined Steel Pizza",
+      "id": 51
+    },
+    {
+      "userId": 35,
+      "title": "Luxurious Wooden Salad",
+      "id": 52
+    },
+    {
+      "userId": 35,
+      "title": "Ergonomic Granite Towels",
+      "id": 53
+    },
+    {
+      "userId": 35,
+      "title": "Luxurious Rubber Pants",
+      "id": 54
+    },
+    {
+      "userId": 35,
+      "title": "Small Fresh Soap",
+      "id": 55
+    },
+    {
+      "userId": 37,
+      "title": "Fantastic Bronze Chair",
+      "id": 57
+    },
+    {
+      "userId": 37,
+      "title": "Small Bronze Bacon",
+      "id": 58
+    },
+    {
+      "userId": 37,
+      "title": "Oriental Cotton Shoes",
+      "id": 59
+    },
+    {
+      "userId": 37,
+      "title": "Refined Rubber Chicken",
+      "id": 60
+    },
+    {
+      "userId": 37,
+      "title": "Electronic Plastic Shirt",
+      "id": 61
+    }
+  ],
   "photos": []
 }
